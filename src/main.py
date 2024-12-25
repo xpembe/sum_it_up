@@ -19,7 +19,6 @@ def main():
         calculate = Calculator(num1, num2)
 
         # Deciding for the operation to be performed
-        result = 0
         if operation == 1:
             result = calculate.add()
         if operation == 2:
