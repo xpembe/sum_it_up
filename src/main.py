@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import sys
 import prompt as prompt
 from calculator import Calculator
